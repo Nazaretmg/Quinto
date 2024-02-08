@@ -1,0 +1,36 @@
+.tamaño{
+    height: 20px;
+}
+
+.fila{
+    display: flex;
+    align-items: stretch !important;
+}
+
+.espacio1{
+    padding: 50px;
+}
+
+.encabezado{
+    text-align: center;
+}
+
+.margen{
+    margin-top: 50px;
+}
+
+.texto{
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.espacio2{
+    margin-top: 300px;
+    margin-bottom: 70px;
+}
+
+.boton{
+    border: 1px solid red !important;
+    background-color: rgb(235, 157, 157) !important;
+}
